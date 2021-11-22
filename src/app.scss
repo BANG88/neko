@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  .taro-tabbar__container,
+  .taro_router {
+    height: 100%;
+    > div {
+      height: 100%;
+      .taro_page {
+        height: 100%;
+      }
+    }
+  }
+}

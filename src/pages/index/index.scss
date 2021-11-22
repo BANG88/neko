@@ -1,13 +1,16 @@
 page {
-  background-color: white;
+  background-color: #ff6a73;
   padding: 14px;
   // box-sizing: border-box;
   color: #333;
+  height: 100%;
 }
 
 .wrapper {
   display: flex;
   flex-direction: column;
+  background-color: #ff6a73;
+  height: 100%;
 }
 
 .logo {
@@ -47,7 +50,7 @@ page {
 }
 
 .button {
-  display: block;
+  // display: block;
   width: 100%;
   background-color: transparent;
   border-radius: 2px;
