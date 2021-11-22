@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "neko",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
